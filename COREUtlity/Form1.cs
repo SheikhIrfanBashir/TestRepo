@@ -967,7 +967,7 @@ namespace COREUtlity
                 MessageBox.Show(ex.ToString());
             }
         }
-
+        //yfgvtycftgxhfsdr
         private void metrobtnDeleteDatabaseSQLServer_Click(object sender, EventArgs e)
         {
             try
